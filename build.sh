@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-## Copyright (C) 2020-2025 Aditya Shakya <adi1090x@gmail.com>
-
 ## Dirs
 DIR="$(pwd)"
 PKGS=(`ls -d */ | cut -f1 -d'/'`)
