@@ -1,0 +1,21 @@
+# Maintainer: Arkaitz Silva <arkaitz.develop@gmail.com>
+
+pkgname=kvantum-theme-nx-nord
+pkgver=1.0
+pkgrel=1
+pkgdesc="Nx Kvantum Theme"
+arch=('any')
+url="https://github.com/arkaitzsilva/kvantum-themes"
+license=('GPL3')
+groups=(kvantum-themes)
+options=(!strip !emptydirs)
+
+prepare() {
+	cp -af ../files/. "$srcdir"
+}
+
+package() {
+	local _kvantumdir="$pkgdir"/usr/share/Kvantum
+	mkdir -p "$_kvantumdir"
+	cp -r "$srcdir"/* "$_kvantumdir"
+}
