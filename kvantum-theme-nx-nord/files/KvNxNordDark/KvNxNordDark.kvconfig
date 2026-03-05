@@ -38,10 +38,10 @@ toolbutton_style=1
 double_click=false
 
 translucent_windows=false
-blurring=true
-popup_blurring=true
+blurring=false
+popup_blurring=false
 
-opaque=kaffeine,kmplayer,subtitlecomposer,kdenlive,smplayer,smplayer2,avidemux,avidemux2_qt4,avidemux3_qt4,kamoso,QtCreator,VirtualBox,trojita,dragon,qupzilla,digikam,calamares,systemsettings5,systemsettings
+opaque=
 
 vertical_spin_indicators=false
 spin_button_width=32
@@ -52,7 +52,7 @@ merge_menubar_with_toolbar=false
 toolbar_item_spacing=1
 
 small_icon_size=16
-large_icon_size=22
+large_icon_size=24
 button_icon_size=16
 toolbar_icon_size=16
 
@@ -81,28 +81,27 @@ reduce_menu_opacity=0
 reduce_window_opacity=0
 scrollable_menu=false
 submenu_delay=250
-transient_groove=false
-transient_scrollbar=false
+transient_groove=true
+transient_scrollbar=true
 click_behavior=0
 contrast=1.00
 dialog_button_layout=0
 intensity=1.00
 saturation=1.00
 shadowless_popup=false
+drag_from_buttons=false
+menu_blur_radius=0
+tooltip_blur_radius=0
 
 [GeneralColors]
-#Set to 0% opacity so that the SVG elemnt is visible, by default the color overlaps the SVG element
 window.color=#2e3440
-
-#View bg color. Without transparency it looks weird
 base.color=#2e3440
-
 alt.base.color=#2e3440
-button.color=#3b4252
-light.color=#2e3440
-mid.light.color=#2e3440
-dark.color=#2e3440
-mid.color=#2e3440
+button.color=#2e3440
+light.color=#4c566a
+mid.light.color=#4c566a
+dark.color=#292E39
+mid.color=#3b4252
 
 highlight.color=#88c0d0
 inactive.highlight.color=#5e81ac
@@ -139,12 +138,16 @@ single_top_toolbar=true
 
 tint_on_mouseover=0
 transparent_pcmanfm_view=false
-blur_translucent=true
+blur_translucent=false
 no_selection_tint=false
 middle_click_scroll=false
 opaque_colors=false
 kinetic_scrolling=false
 scroll_jump_workaround=false
+blur_only_active_window=false
+centered_forms=false
+noninteger_translucency=false
+style_vertical_toolbars=false
 
 [PanelButtonCommand]
 frame=true
@@ -158,7 +161,7 @@ interior=true
 interior.element=button
 indicator.size=10
 text.normal.color=#eceff4
-text.focus.color=#88c0d0
+text.focus.color=#eceff4
 text.press.color=#2e3440
 text.toggle.color=#2e3440
 text.shadow=0
