@@ -8,7 +8,7 @@
    id="svg5049"
    version="1.1"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
-   sodipodi:docname="KvNxNordDark.svg"
+   sodipodi:docname="KvNxNordDark_drag.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -434,9 +434,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284273"
-     inkscape:cx="449.71989"
-     inkscape:cy="385.90351"
+     inkscape:zoom="8.0000005"
+     inkscape:cx="449.56247"
+     inkscape:cy="12.499999"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -451,7 +451,7 @@
      inkscape:window-height="880"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:pagecheckerboard="0"
@@ -516,22 +516,22 @@
          inkscape:connector-curvature="0"
          id="path4494"
          d="m 345,-847.63782 13,-13 0,13 z"
-         style="fill:#3b4252;fill-opacity:1;fill-rule:evenodd;stroke:#e5e9f0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#3b4252;fill-opacity:1;fill-rule:evenodd;stroke:#4c566a;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="resize-grip-focused"
        transform="translate(80,0)">
       <rect
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.85185;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4496"
-         width="27"
-         height="26.999998"
+         width="25"
+         height="25"
          x="385"
          y="-867.63757"
          ry="0" />
       <path
-         style="fill:#88c0d0;fill-opacity:1;fill-rule:evenodd;stroke:#88c0d0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 386,-841.63782 25,-25 0,25 z"
+         style="fill:#4c566a;fill-opacity:1;fill-rule:evenodd;stroke:#4c566a;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 391.55548,-847.1933 13.88897,-13.88904 v 13.88904 z"
          id="path4498"
          inkscape:connector-curvature="0" />
     </g>
