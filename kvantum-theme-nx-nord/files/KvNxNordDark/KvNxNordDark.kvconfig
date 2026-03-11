@@ -112,7 +112,7 @@ disabled.text.color=#4c566a
 tooltip.text.color=#eceff4
 highlight.text.color=#3b4252
 link.color=#8fbcbb
-link.visited.color=#5e81ac
+link.visited.color=#b48ead
 progress.indicator.text.color=#2e3440
 
 [Hacks]
