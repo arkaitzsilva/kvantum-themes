@@ -82,7 +82,7 @@ reduce_window_opacity=0
 scrollable_menu=false
 submenu_delay=250
 transient_groove=true
-transient_scrollbar=true
+transient_scrollbar=false
 click_behavior=0
 contrast=1.00
 dialog_button_layout=0
@@ -96,7 +96,7 @@ tooltip_blur_radius=0
 [GeneralColors]
 window.color=#2e3440
 base.color=#2e3440
-alt.base.color=#2e3440
+alt.base.color=#3b4252
 button.color=#2e3440
 light.color=#4c566a
 mid.light.color=#4c566a
